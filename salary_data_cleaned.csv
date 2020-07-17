@@ -1,0 +1,57 @@
+Job Title,Salary Estimate,Rating,Company Name,Location,Headquarters,Size,Founded,Type of ownership,Industry,Sector,Revenue,Competitors,hourly,employer_provided,company_txt,same_state,job_state,min_salary,max_salary,avg_salary,age,python_yn,R_yn,spark,aws,excel
+Data Scientist,CA$73K-CA$100K (Glassdoor Est.),3.1,"Home Trust
+3.1",Toronto,"Toronto, Canada",501 to 1000 employees,1977,Company - Public,Lending,Finance,$100 to $500 million (CAD),-1,0,0,"Home Trust
+",0,Toronto,73,100,86.5,43,1,0,1,0,1
+Data Scientist,CA$73K-CA$100K (Glassdoor Est.),4.0,"Suncor Energy Services
+4.0",Calgary,"Calgary, Canada",10000+ employees,1967,Company - Public,Energy,"Oil, Gas, Energy & Utilities",$10+ billion (CAD),"Imperial Oil, Husky Energy",0,0,"Suncor Energy Services
+",0,Calgary,73,100,86.5,53,1,0,0,0,1
+Data Scientist,CA$73K-CA$100K (Glassdoor Est.),3.3,"Purolator
+3.3",Mississauga,"Mississauga, Canada",10000+ employees,-1,Company - Private,Express Delivery Services,Transportation & Logistics,$2 to $5 billion (CAD),-1,0,0,"Purolator
+",0,Mississauga,73,100,86.5,-1,1,0,1,0,1
+Data Scientist (remote),CA$73K-CA$100K (Glassdoor Est.),5.0,"Ample Insight Inc.
+5.0",Toronto,"Toronto, Canada",1 to 50 employees,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1,0,0,"Ample Insight Inc.
+",0,Toronto,73,100,86.5,-1,1,0,0,0,0
+Product Data Scientist,CA$73K-CA$100K (Glassdoor Est.),4.4,"Coffee Meets Bagel
+4.4",Ontario,"San Francisco, CA",51 to 200 employees,2012,Company - Private,Computer Hardware & Software,Information Technology,$1 to $5 million (CAD),-1,0,0,"Coffee Meets Bagel
+",0,Ontario,73,100,86.5,8,1,0,0,0,0
+Senior NLP Engineer/Data Scientist,CA$73K-CA$100K (Glassdoor Est.),4.9,"Nylas
+4.9",Toronto,"San Francisco, CA",51 to 200 employees,2013,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,"Nylas
+",0,Toronto,73,100,86.5,7,1,0,1,0,0
+Data Scientist,CA$73K-CA$100K (Glassdoor Est.),-1.0,SomaDetect,Thorold,"Fredericton, Canada",1 to 50 employees,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1,0,0,SomaDetect,0,Thorold,73,100,86.5,-1,1,0,1,0,1
+"Data Scientist Consultant, Cloud Support Data and Analytics",CA$73K-CA$100K (Glassdoor Est.),4.4,"Google
+4.4",Waterloo,"Mountain View, CA",10000+ employees,1998,Company - Public,Internet,Information Technology,$10+ billion (CAD),"Microsoft, Apple, Facebook",0,0,"Google
+",0,Waterloo,73,100,86.5,22,1,0,0,0,1
+Data Scientist,CA$73K-CA$100K (Glassdoor Est.),3.5,"Assurance Careers
+3.5",Toronto,"Bellevue, WA",51 to 200 employees,2016,Company - Private,Insurance Agencies & Brokerages,Insurance,Unknown / Non-Applicable,-1,0,0,"Assurance Careers
+",0,Toronto,73,100,86.5,4,1,0,0,1,1
+Data Scientist,CA$73K-CA$100K (Glassdoor Est.),3.9,"Amazon
+3.9",Ottawa,"Seattle, WA",10000+ employees,1994,Company - Public,Internet,Information Technology,$10+ billion (CAD),"Google, Microsoft, Walmart",0,0,"Amazon
+",0,Ottawa,73,100,86.5,26,1,0,1,1,1
+Data Scientist,CA$73K-CA$100K (Glassdoor Est.),4.0,"Aquatic Informatics
+4.0",Vancouver,"Vancouver, Canada",51 to 200 employees,-1,Company - Private,Enterprise Software & Network Solutions,Information Technology,$10 to $25 million (CAD),-1,0,0,"Aquatic Informatics
+",0,Vancouver,73,100,86.5,-1,1,0,0,1,1
+Data Scientist,CA$73K-CA$100K (Glassdoor Est.),3.7,"Scalian Inc
+3.7",Montreal,"Labege, France",1001 to 5000 employees,1989,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,"Scalian Inc
+",0,Montreal,73,100,86.5,31,1,0,1,0,1
+Data Scientist,CA$73K-CA$100K (Glassdoor Est.),5.0,"Precision Nutrition
+5.0",Toronto,"Toronto, Canada",51 to 200 employees,2001,Company - Private,Education Training Services,Education,Unknown / Non-Applicable,-1,0,0,"Precision Nutrition
+",0,Toronto,73,100,86.5,19,1,0,0,0,1
+Data Scientist,CA$73K-CA$100K (Glassdoor Est.),4.0,"Bayer
+4.0",Mississauga,"Sao Paulo, Brazil",5001 to 10000 employees,1863,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (CAD),"Johnson & Johnson, Syngenta, BASF",0,0,"Bayer
+",0,Mississauga,73,100,86.5,157,1,0,0,0,0
+Data Scientist,CA$73K-CA$100K (Glassdoor Est.),3.3,"Fujitsu
+3.3",Vancouver,"MINATO-KU, Japan",10000+ employees,1935,Company - Public,-1,-1,$10+ billion (CAD),"Atos, Hewlett Packard Enterprise | HPE, IBM",0,0,"Fujitsu
+",0,Vancouver,73,100,86.5,85,1,0,1,0,1
+Data Scientist,CA$73K-CA$100K (Glassdoor Est.),4.2,"Thrive Health
+4.2",Vancouver,"Vancouver, Canada",1 to 50 employees,2016,Company - Private,Healthcare Services & Hospitals,Healthcare,Unknown / Non-Applicable,-1,0,0,"Thrive Health
+",0,Vancouver,73,100,86.5,4,0,0,0,0,1
+Data Engineer/Backend Developer,CA$73K-CA$100K (Glassdoor Est.),-1.0,Label Engine,Vancouver,"Los Angeles, CA",51 to 200 employees,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1,0,0,Label Engine,0,Vancouver,73,100,86.5,-1,1,0,0,1,1
+Data Scientist,CA$73K-CA$100K (Glassdoor Est.),3.9,"Cerebri AI
+3.9",Toronto,"Austin, TX",51 to 200 employees,2016,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,"Cerebri AI
+",0,Toronto,73,100,86.5,4,1,0,1,0,0
+Data Scientist Intern,CA$73K-CA$100K (Glassdoor Est.),2.7,"Guavus
+2.7",Montreal,"San Jose, CA",201 to 500 employees,2006,Subsidiary or Business Segment,Enterprise Software & Network Solutions,Information Technology,$50 to $100 million (CAD),-1,0,0,"Guavus
+",0,Montreal,73,100,86.5,14,1,0,1,0,1
+Data Scientist,CA$73K-CA$100K (Glassdoor Est.),4.2,"Replicon
+4.2",Calgary,"Calgary, Canada",201 to 500 employees,1996,Company - Private,Enterprise Software & Network Solutions,Information Technology,$50 to $100 million (CAD),"Kronos Incorporated, TSheets, Workday",0,0,"Replicon
+",0,Calgary,73,100,86.5,24,1,0,0,0,0
