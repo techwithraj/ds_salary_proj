@@ -1,283 +1,283 @@
 Job Title,Salary Estimate,Rating,Company Name,Location,Headquarters,Size,Founded,Type of ownership,Industry,Sector,Revenue,Competitors,hourly,employer_provided,min_salary,max_salary,avg_salary,company_txt,job_state,same_state,age,python_yn,R_yn,spark,aws,excel
-Research & Data Analyst (CoOp/Intern),CA$73K-CA$100K (Glassdoor Est.),3.5,"WildBrain
-3.5",Toronto,"Toronto, Canada",501 to 1000 employees,2006,Company - Public,Film Production & Distribution,Media,$100 to $500 million (CAD),"Bardel Entertainment, Corus Entertainment, Atomic Cartoons",0,0,73,100,86.5,"WildBrain
-",Toronto,0,14,0,0,1,0,0
-Data Scientist,CA$73K-CA$100K (Glassdoor Est.),4.0,"Suncor Energy Services
-4.0",Calgary,"Calgary, Canada",10000+ employees,1967,Company - Public,Energy,"Oil, Gas, Energy & Utilities",$10+ billion (CAD),"Imperial Oil, Husky Energy",0,0,73,100,86.5,"Suncor Energy Services
-",Calgary,0,53,1,0,0,0,1
+Staff Data Scientist,CA$73K-CA$100K (Glassdoor Est.),2.7,"realtor.com
+2.7",Vancouver,"Santa Clara, CA",1001 to 5000 employees,1993,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,"Zillow, Trulia, Redfin",0,0,73,100,86.5,"realtor.com
+",Vancouver,0,27,1,0,1,0,1
+Senior Data Analyst,CA$73K-CA$100K (Glassdoor Est.),3.4,"Teranet
+3.4",Toronto,"Toronto, Canada",501 to 1000 employees,1991,Company - Private,Computer Hardware & Software,Information Technology,$100 to $500 million (CAD),-1,0,0,73,100,86.5,"Teranet
+",Toronto,0,29,1,0,0,0,0
+Game Data Scientist,CA$73K-CA$100K (Glassdoor Est.),4.4,"Prodigy Game
+4.4",Oakville,"Oakville, Canada",201 to 500 employees,2011,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,-1,0,0,73,100,86.5,"Prodigy Game
+",Oakville,0,9,1,0,1,1,0
+Data Engineer/Backend Developer,CA$73K-CA$100K (Glassdoor Est.),-1.0,Label Engine,Vancouver,"Los Angeles, CA",51 to 200 employees,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1,0,0,73,100,86.5,Label Engine,Vancouver,0,-1,1,0,0,1,1
 Data Scientist,CA$73K-CA$100K (Glassdoor Est.),3.1,"Home Trust
 3.1",Toronto,"Toronto, Canada",501 to 1000 employees,1977,Company - Public,Lending,Finance,$100 to $500 million (CAD),-1,0,0,73,100,86.5,"Home Trust
 ",Toronto,0,43,1,0,1,0,1
-Data Scientist,CA$73K-CA$100K (Glassdoor Est.),3.3,"Purolator
-3.3",Mississauga,"Mississauga, Canada",10000+ employees,-1,Company - Private,Express Delivery Services,Transportation & Logistics,$2 to $5 billion (CAD),-1,0,0,73,100,86.5,"Purolator
-",Mississauga,0,-1,1,0,1,0,1
-Product Data Scientist,CA$73K-CA$100K (Glassdoor Est.),4.4,"Coffee Meets Bagel
-4.4",Toronto,"San Francisco, CA",51 to 200 employees,2012,Company - Private,Computer Hardware & Software,Information Technology,$1 to $5 million (CAD),-1,0,0,73,100,86.5,"Coffee Meets Bagel
-",Toronto,0,8,1,0,0,0,0
-Data Analyst,CA$73K-CA$100K (Glassdoor Est.),3.6,"Syniti
-3.6",Moncton,"Hyannis, MA",501 to 1000 employees,1996,Company - Private,IT Services,Information Technology,$100 to $500 million (CAD),"Collabera, Commvault, LTI",0,0,73,100,86.5,"Syniti
-",Moncton,0,24,0,0,0,0,1
-Data Scientist (remote),CA$73K-CA$100K (Glassdoor Est.),5.0,"Ample Insight Inc.
-5.0",Toronto,"Toronto, Canada",1 to 50 employees,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1,0,0,73,100,86.5,"Ample Insight Inc.
-",Toronto,0,-1,1,0,0,0,0
-Senior NLP Engineer/Data Scientist,CA$73K-CA$100K (Glassdoor Est.),4.9,"Nylas
-4.9",Toronto,"San Francisco, CA",51 to 200 employees,2013,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,73,100,86.5,"Nylas
-",Toronto,0,7,1,0,1,0,0
 Data Scientist I,CA$73K-CA$100K (Glassdoor Est.),3.9,"TD Bank
 3.9",Toronto,"Toronto, Canada",10000+ employees,1855,Company - Public,Banks & Building Societies,Finance,$10+ billion (CAD),"Chase, BB&T, SunTrust",0,0,73,100,86.5,"TD Bank
 ",Toronto,0,165,1,0,1,0,1
+Product Data Scientist,CA$73K-CA$100K (Glassdoor Est.),4.4,"Coffee Meets Bagel
+4.4",Toronto,"San Francisco, CA",51 to 200 employees,2012,Company - Private,Computer Hardware & Software,Information Technology,$1 to $5 million (CAD),-1,0,0,73,100,86.5,"Coffee Meets Bagel
+",Toronto,0,8,1,0,0,0,0
+Data Scientist,CA$73K-CA$100K (Glassdoor Est.),-1.0,SomaDetect,Thorold,"Fredericton, Canada",1 to 50 employees,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1,0,0,73,100,86.5,SomaDetect,Thorold,0,-1,1,0,1,0,1
 Data Scientist,CA$73K-CA$100K (Glassdoor Est.),3.5,"Assurance Careers
 3.5",Toronto,"Bellevue, WA",51 to 200 employees,2016,Company - Private,Insurance Agencies & Brokerages,Insurance,Unknown / Non-Applicable,-1,0,0,73,100,86.5,"Assurance Careers
 ",Toronto,0,4,1,0,0,1,1
-Data Scientist,CA$73K-CA$100K (Glassdoor Est.),-1.0,SomaDetect,Thorold,"Fredericton, Canada",1 to 50 employees,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1,0,0,73,100,86.5,SomaDetect,Thorold,0,-1,1,0,1,0,1
 "Data Scientist Consultant, Cloud Support Data and Analytics",CA$73K-CA$100K (Glassdoor Est.),4.4,"Google
 4.4",Waterloo,"Mountain View, CA",10000+ employees,1998,Company - Public,Internet,Information Technology,$10+ billion (CAD),"Microsoft, Apple, Facebook",0,0,73,100,86.5,"Google
 ",Waterloo,0,22,1,0,0,0,1
-Data Scientist,CA$73K-CA$100K (Glassdoor Est.),4.0,"Aquatic Informatics
-4.0",Vancouver,"Vancouver, Canada",51 to 200 employees,-1,Company - Private,Enterprise Software & Network Solutions,Information Technology,$10 to $25 million (CAD),-1,0,0,73,100,86.5,"Aquatic Informatics
-",Vancouver,0,-1,1,0,0,1,1
-Data Scientist,CA$73K-CA$100K (Glassdoor Est.),3.9,"Amazon
-3.9",Ottawa,"Seattle, WA",10000+ employees,1994,Company - Public,Internet,Information Technology,$10+ billion (CAD),"Google, Microsoft, Walmart",0,0,73,100,86.5,"Amazon
-",Ottawa,0,26,1,0,1,1,1
+Data Scientist,CA$73K-CA$100K (Glassdoor Est.),3.7,"Air Canada
+3.7",Canada,"Saint-Laurent, Canada",10000+ employees,1937,Company - Public,Airlines,Travel & Tourism,$10+ billion (CAD),"WestJet, Porter Airlines, Delta Air Lines",0,0,73,100,86.5,"Air Canada
+",Canada,0,83,1,0,0,0,1
 Data Scientist,CA$73K-CA$100K (Glassdoor Est.),5.0,"Precision Nutrition
 5.0",Toronto,"Toronto, Canada",51 to 200 employees,2001,Company - Private,Education Training Services,Education,Unknown / Non-Applicable,-1,0,0,73,100,86.5,"Precision Nutrition
 ",Toronto,0,19,1,0,0,0,1
-Data Scientist,CA$73K-CA$100K (Glassdoor Est.),4.0,"Bayer
-4.0",Mississauga,"Sao Paulo, Brazil",5001 to 10000 employees,1863,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (CAD),"Johnson & Johnson, Syngenta, BASF",0,0,73,100,86.5,"Bayer
-",Mississauga,0,157,1,0,0,0,0
 Data Scientist,CA$73K-CA$100K (Glassdoor Est.),3.3,"Fujitsu
 3.3",Vancouver,"MINATO-KU, Japan",10000+ employees,1935,Company - Public,-1,-1,$10+ billion (CAD),"Atos, Hewlett Packard Enterprise | HPE, IBM",0,0,73,100,86.5,"Fujitsu
 ",Vancouver,0,85,1,0,1,0,1
-Data Scientist,CA$73K-CA$100K (Glassdoor Est.),4.2,"Replicon
-4.2",Calgary,"Calgary, Canada",201 to 500 employees,1996,Company - Private,Enterprise Software & Network Solutions,Information Technology,$50 to $100 million (CAD),"Kronos Incorporated, TSheets, Workday",0,0,73,100,86.5,"Replicon
-",Calgary,0,24,1,0,0,0,0
 Data Scientist,CA$73K-CA$100K (Glassdoor Est.),3.9,"Cerebri AI
 3.9",Toronto,"Austin, TX",51 to 200 employees,2016,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,73,100,86.5,"Cerebri AI
 ",Toronto,0,4,1,0,1,0,0
-Data Scientist,CA$73K-CA$100K (Glassdoor Est.),3.7,"Scalian Inc
-3.7",Montreal,"Labege, France",1001 to 5000 employees,1989,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,73,100,86.5,"Scalian Inc
-",Montreal,0,31,1,0,1,0,1
-"Data Scientist, Contract",CA$73K-CA$100K (Glassdoor Est.),3.7,"Bell Canada
-3.7",Don Mills,"Montreal, Canada",10000+ employees,1880,Company - Public,"Cable, Internet & Telephone Providers",Telecommunications,$10+ billion (CAD),"Rogers Communications, TELUS, IBM",0,0,73,100,86.5,"Bell Canada
-",Don Mills,0,140,1,0,1,0,1
-Data Scientist,CA$73K-CA$100K (Glassdoor Est.),5.0,"Zesty.ai
-5.0",Montreal,"Oakland, CA",1 to 50 employees,2015,Company - Private,Insurance Agencies & Brokerages,Insurance,Unknown / Non-Applicable,-1,0,0,73,100,86.5,"Zesty.ai
-",Montreal,0,5,0,0,0,1,0
-Data Scientist Intern,CA$73K-CA$100K (Glassdoor Est.),2.7,"Guavus
-2.7",Montreal,"San Jose, CA",201 to 500 employees,2006,Subsidiary or Business Segment,Enterprise Software & Network Solutions,Information Technology,$50 to $100 million (CAD),-1,0,0,73,100,86.5,"Guavus
-",Montreal,0,14,1,0,1,0,1
+Data Scientist,CA$73K-CA$100K (Glassdoor Est.),3.9,"Amazon
+3.9",Ottawa,"Seattle, WA",10000+ employees,1994,Company - Public,Internet,Information Technology,$10+ billion (CAD),"Google, Microsoft, Walmart",0,0,73,100,86.5,"Amazon
+",Ottawa,0,26,1,0,1,1,1
+Data Scientist,CA$73K-CA$100K (Glassdoor Est.),4.0,"Suncor Energy Services
+4.0",Calgary,"Calgary, Canada",10000+ employees,1967,Company - Public,Energy,"Oil, Gas, Energy & Utilities",$10+ billion (CAD),"Imperial Oil, Husky Energy",0,0,73,100,86.5,"Suncor Energy Services
+",Calgary,0,53,1,0,0,0,1
 CO OP/Intern: Data Scientist,CA$73K-CA$100K (Glassdoor Est.),4.0,"Ciena
 4.0",Ottawa,"Hanover, MD",5001 to 10000 employees,1992,Company - Public,Telecommunications Manufacturing,Telecommunications,$2 to $5 billion (CAD),"Nokia, Infinera, Cisco Systems",0,0,73,100,86.5,"Ciena
 ",Ottawa,0,28,1,0,1,1,0
 Data Scientist,CA$73K-CA$100K (Glassdoor Est.),4.2,"Thrive Health
 4.2",Vancouver,"Vancouver, Canada",1 to 50 employees,2016,Company - Private,Healthcare Services & Hospitals,Healthcare,Unknown / Non-Applicable,-1,0,0,73,100,86.5,"Thrive Health
 ",Vancouver,0,4,0,0,0,0,1
-Data Scientist,CA$73K-CA$100K (Glassdoor Est.),3.9,"Electronic Arts
-3.9",Vancouver,"Redwood City, CA",5001 to 10000 employees,1982,Company - Public,Video Games,Media,$2 to $5 billion (CAD),"Riot Games, Google, Activision Blizzard",0,0,73,100,86.5,"Electronic Arts
-",Vancouver,0,38,1,0,0,0,0
-Marketing Data Analyst,CA$73K-CA$100K (Glassdoor Est.),4.7,"Natural Partners Fullscript
-4.7",Ottawa,"Ottawa, Canada",201 to 500 employees,2012,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,-1,0,0,73,100,86.5,"Natural Partners Fullscript
-",Ottawa,0,8,1,0,0,0,0
-Data Scientist,CA$73K-CA$100K (Glassdoor Est.),4.3,"J.D. Irving
-4.3",Dieppe,"Saint John, Canada",10000+ employees,1882,Company - Private,Industrial Manufacturing,Manufacturing,Unknown / Non-Applicable,-1,0,0,73,100,86.5,"J.D. Irving
-",Dieppe,0,138,1,0,0,0,0
-Data Scientist - RACE21,CA$73K-CA$100K (Glassdoor Est.),3.8,"Teck Resources Limited
-3.8",Vancouver,"Vancouver, Canada",5001 to 10000 employees,-1,Company - Public,Mining,Mining & Metals,$10+ billion (CAD),-1,0,0,73,100,86.5,"Teck Resources Limited
-",Vancouver,0,-1,0,0,0,0,1
-Data Modeler,CA$73K-CA$100K (Glassdoor Est.),3.6,"Interac
-3.6",Toronto,"Toronto, Canada",201 to 500 employees,1984,Company - Private,Financial Transaction Processing,Finance,Unknown / Non-Applicable,-1,0,0,73,100,86.5,"Interac
-",Toronto,0,36,1,0,1,0,1
-Data Scientist,CA$68K-CA$85K (Glassdoor Est.),3.9,"Ericsson-Worldwide
-3.9",Montreal,"Stockholm, Sweden",10000+ employees,1876,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (CAD),"Huawei Technologies, IBM, Cisco Systems",0,0,68,85,76.5,"Ericsson-Worldwide
+Data Scientist,CA$73K-CA$100K (Glassdoor Est.),3.9,"Ericsson-Worldwide
+3.9",Montreal,"Stockholm, Sweden",10000+ employees,1876,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (CAD),"Huawei Technologies, IBM, Cisco Systems",0,0,73,100,86.5,"Ericsson-Worldwide
 ",Montreal,0,144,1,0,1,0,0
-Analytics Consultant,CA$68K-CA$85K (Glassdoor Est.),4.6,"Carpedia International
-4.6",Oakville,"Oakville, Canada",51 to 200 employees,1994,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,"McKinsey & Company, Celerant Consulting, PVA Consulting Group",0,0,68,85,76.5,"Carpedia International
-",Oakville,0,26,0,0,0,0,1
-Data scientist,CA$68K-CA$85K (Glassdoor Est.),3.8,"Cortex consultants LLC
-3.8",Montreal,"North Brunswick, NJ",501 to 1000 employees,-1,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,-1,0,0,68,85,76.5,"Cortex consultants LLC
+Data Scientist,CA$73K-CA$100K (Glassdoor Est.),3.7,"Scalian Inc
+3.7",Montreal,"Labege, France",1001 to 5000 employees,1989,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,73,100,86.5,"Scalian Inc
+",Montreal,0,31,1,0,1,0,1
+Data Scientist,CA$73K-CA$100K (Glassdoor Est.),5.0,"Zesty.ai
+5.0",Montreal,"Oakland, CA",1 to 50 employees,2015,Company - Private,Insurance Agencies & Brokerages,Insurance,Unknown / Non-Applicable,-1,0,0,73,100,86.5,"Zesty.ai
+",Montreal,0,5,0,0,0,1,0
+Data Scientist,CA$73K-CA$100K (Glassdoor Est.),-1.0,Services Conseils IntelliSoft,Montreal,"Montreal, Canada",Unknown,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1,0,0,73,100,86.5,Services Conseils IntelliSoft,Montreal,0,-1,1,0,1,0,1
+Data Scientist.,CA$73K-CA$100K (Glassdoor Est.),5.0,"Brain Finance
+5.0",Montreal,"Montreal, Canada",51 to 200 employees,-1,Private Practice / Firm,-1,-1,Unknown / Non-Applicable,-1,0,0,73,100,86.5,"Brain Finance
 ",Montreal,0,-1,1,0,1,0,0
-Data Scientist Analyst M/F,CA$68K-CA$85K (Glassdoor Est.),3.8,"Danone
-3.8",Paris (France),"Paris, France",10000+ employees,1919,Company - Public,Food & Drink Manufacturing,Manufacturing,$10+ billion (CAD),-1,0,0,68,85,76.5,"Danone
-",Paris (France),0,101,1,0,0,1,1
-Data Scientist - Digital Accelerator Team (Contract),CA$68K-CA$85K (Glassdoor Est.),3.6,"Tundra
-3.6",Montreal,"Toronto, Canada",201 to 500 employees,2004,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable,-1,0,0,68,85,76.5,"Tundra
+Data Scientist,CA$73K-CA$100K (Glassdoor Est.),3.7,"Cognizant Technology Solutions
+3.7",Mississauga,"Teaneck, NJ",10000+ employees,1994,Company - Public,-1,-1,$10+ billion (CAD),"Tata Consultancy Services, Accenture, Capgemini",0,0,73,100,86.5,"Cognizant Technology Solutions
+",Mississauga,0,26,1,0,0,0,0
+Data Scientist - Digital Accelerator Team (Contract),CA$73K-CA$100K (Glassdoor Est.),3.6,"Tundra
+3.6",Montreal,"Toronto, Canada",201 to 500 employees,2004,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable,-1,0,0,73,100,86.5,"Tundra
 ",Montreal,0,16,1,0,1,0,1
-Data Scientist,CA$68K-CA$85K (Glassdoor Est.),4.4,"MobSquad
-4.4",Calgary,"Calgary, Canada",1 to 50 employees,-1,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,-1,0,0,68,85,76.5,"MobSquad
-",Calgary,0,-1,1,0,1,0,1
-"Data Scientist (R&D, Batteries)",CA$68K-CA$85K (Glassdoor Est.),4.4,"GBatteries
-4.4",Ottawa,"Ottawa, Canada",1 to 50 employees,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1,0,0,68,85,76.5,"GBatteries
-",Ottawa,0,-1,1,0,1,0,0
-Data Scientist Student,CA$68K-CA$85K (Glassdoor Est.),3.3,"Blackberry
-3.3",Mississauga,"Waterloo, Canada",1001 to 5000 employees,1984,Company - Public,Enterprise Software & Network Solutions,Information Technology,$10+ billion (CAD),-1,0,0,68,85,76.5,"Blackberry
-",Mississauga,0,36,1,0,0,0,0
-Data Scientist,CA$68K-CA$85K (Glassdoor Est.),-1.0,Services Conseils IntelliSoft,Montreal,"Montreal, Canada",Unknown,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1,0,0,68,85,76.5,Services Conseils IntelliSoft,Montreal,0,-1,1,0,1,0,1
-Data Scientist,CA$68K-CA$85K (Glassdoor Est.),-1.0,Strategic Solutions Technology Staffing Inc.,Toronto,-1,-1,-1,-1,-1,-1,-1,-1,0,0,68,85,76.5,Strategic Solutions Technology Staffing Inc.,Toronto,0,-1,1,0,0,0,0
-Data scientist figth money laundering,CA$68K-CA$85K (Glassdoor Est.),4.1,"Banque Nationale du Canada
-4.1",Montreal,"Montreal, Canada",10000+ employees,1859,Company - Public,Banks & Building Societies,Finance,$10+ billion (CAD),-1,0,0,68,85,76.5,"Banque Nationale du Canada
-",Montreal,0,161,0,0,0,0,0
-Business Intelligence Analyst,CA$68K-CA$85K (Glassdoor Est.),3.7,"TransLink
-3.7",Vancouver,"New Westminster, Canada",51 to 200 employees,1999,Company - Public,Government Agencies,Government,Unknown / Non-Applicable,-1,0,0,68,85,76.5,"TransLink
-",Vancouver,0,21,0,0,0,0,1
-Data Scientist,CA$68K-CA$85K (Glassdoor Est.),4.8,"Local Logic
-4.8",Montreal,"Montreal, Canada",1 to 50 employees,2014,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1,0,0,68,85,76.5,"Local Logic
+Data Scientist,CA$73K-CA$100K (Glassdoor Est.),4.0,"Replicon
+4.0",Calgary,"Calgary, Canada",201 to 500 employees,1996,Company - Private,Enterprise Software & Network Solutions,Information Technology,$50 to $100 million (CAD),"Kronos Incorporated, TSheets, Workday",0,0,73,100,86.5,"Replicon
+",Calgary,0,24,1,0,0,0,0
+Data Scientist Intern,CA$73K-CA$100K (Glassdoor Est.),2.7,"Guavus
+2.7",Montreal,"San Jose, CA",201 to 500 employees,2006,Subsidiary or Business Segment,Enterprise Software & Network Solutions,Information Technology,$50 to $100 million (CAD),-1,0,0,73,100,86.5,"Guavus
+",Montreal,0,14,1,0,1,0,1
+Data Scientist,CA$73K-CA$100K (Glassdoor Est.),4.8,"Local Logic
+4.8",Montreal,"Montreal, Canada",1 to 50 employees,2014,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1,0,0,73,100,86.5,"Local Logic
 ",Montreal,0,6,1,0,0,0,0
-Data Scientist,CA$68K-CA$85K (Glassdoor Est.),-1.0,Knowtions Research,Toronto,"Toronto, Canada",Unknown,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1,0,0,68,85,76.5,Knowtions Research,Toronto,0,-1,1,0,1,0,0
-Data Scientist,CA$68K-CA$85K (Glassdoor Est.),3.5,"Veeva Systems
-3.5",Toronto,"Pleasanton, CA",1001 to 5000 employees,2007,Company - Public,Enterprise Software & Network Solutions,Information Technology,$1 to $2 billion (CAD),-1,0,0,68,85,76.5,"Veeva Systems
-",Toronto,0,13,1,0,0,1,1
-Data Scientist,CA$68K-CA$85K (Glassdoor Est.),3.7,"Citi
-3.7",Mississauga,"New York, NY",10000+ employees,1812,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (CAD),-1,0,0,68,85,76.5,"Citi
-",Mississauga,0,208,1,0,1,0,0
-Data Scientist,CA$68K-CA$85K (Glassdoor Est.),4.7,"TEEMA
-4.7",North York,"Litchfield Park, AZ",201 to 500 employees,2008,Company - Private,Staffing & Outsourcing,Business Services,$100 to $500 million (CAD),-1,0,0,68,85,76.5,"TEEMA
-",North York,0,12,1,0,0,0,0
-Data Scientist,CA$68K-CA$85K (Glassdoor Est.),2.6,"Canadian Security Intelligence Service
-2.6",Ottawa,"Ottawa, Canada",1 to 50 employees,1984,Government,Government Agencies,Government,Less than $1 million (CAD),-1,0,0,68,85,76.5,"Canadian Security Intelligence Service
-",Ottawa,0,36,1,0,0,0,0
-Data Scientist/ Developer,CA$68K-CA$85K (Glassdoor Est.),5.0,"NDAX INC
-5.0",Calgary,"Calgary, Canada",1 to 50 employees,2017,Company - Public,Stock Exchanges,Finance,Unknown / Non-Applicable,-1,0,0,68,85,76.5,"NDAX INC
-",Calgary,0,3,1,0,0,0,0
-Data Scientist,CA$68K-CA$85K (Glassdoor Est.),3.5,"Aviva
-3.5",Markham,"London, United Kingdom",10000+ employees,1861,Company - Public,Insurance Operators,Insurance,$10+ billion (CAD),Legal & General,0,0,68,85,76.5,"Aviva
-",Markham,0,159,1,0,1,0,0
-Data Scientist,CA$68K-CA$85K (Glassdoor Est.),5.0,"High Tech Genesis
-5.0",Ottawa,"Ottawa, Canada",51 to 200 employees,2008,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1,0,0,68,85,76.5,"High Tech Genesis
-",Ottawa,0,12,1,0,1,0,0
-Senior Research Associate/Data Collection Consultant Peri- and Post Approval Studies,CA$68K-CA$85K (Glassdoor Est.),3.8,"Evidera
-3.8",Montreal,"Bethesda, MD",501 to 1000 employees,2013,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (CAD),"IQVIA, ICON",0,0,68,85,76.5,"Evidera
-",Montreal,0,7,0,0,0,0,0
-Data Scientist,CA$68K-CA$85K (Glassdoor Est.),3.3,"SkipTheDishes
-3.3",Winnipeg,"Winnipeg, Canada",201 to 500 employees,2013,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,-1,0,0,68,85,76.5,"SkipTheDishes
+Data Scientist,CA$73K-CA$100K (Glassdoor Est.),4.0,"Aquatic Informatics
+4.0",Vancouver,"Vancouver, Canada",51 to 200 employees,-1,Company - Private,Enterprise Software & Network Solutions,Information Technology,$10 to $25 million (CAD),-1,0,0,73,100,86.5,"Aquatic Informatics
+",Vancouver,0,-1,1,0,0,1,1
+"Data Scientist, Contract",CA$73K-CA$100K (Glassdoor Est.),3.6,"Bell Canada
+3.6",Don Mills,"Montreal, Canada",10000+ employees,1880,Company - Public,"Cable, Internet & Telephone Providers",Telecommunications,$10+ billion (CAD),"Rogers Communications, TELUS, IBM",0,0,73,100,86.5,"Bell Canada
+",Don Mills,0,140,1,0,1,0,1
+Data Scientist,CA$57K-CA$79K (Glassdoor Est.),3.3,"SkipTheDishes
+3.3",Winnipeg,"Winnipeg, Canada",201 to 500 employees,2013,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,-1,0,0,57,79,68.0,"SkipTheDishes
 ",Winnipeg,0,7,1,0,1,0,0
-Data Scientist (Contract),CA$68K-CA$85K (Glassdoor Est.),3.6,"Tundra
-3.6",Toronto,"Toronto, Canada",201 to 500 employees,2004,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable,-1,0,0,68,85,76.5,"Tundra
-",Toronto,0,16,1,0,1,0,0
-Product Data Analyst,CA$68K-CA$85K (Glassdoor Est.),4.7,"Thinkific
-4.7",Vancouver,"Vancouver, Canada",51 to 200 employees,2012,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,-1,0,0,68,85,76.5,"Thinkific
-",Vancouver,0,8,1,0,0,0,1
-Data Scientist/Time Series,CA$68K-CA$85K (Glassdoor Est.),3.8,"Scarsin
-3.8",Markham,"Uxbridge, Canada",51 to 200 employees,2002,Company - Private,Computer Hardware & Software,Information Technology,$10 to $25 million (CAD),-1,0,0,68,85,76.5,"Scarsin
+Data Scientist Student,CA$57K-CA$79K (Glassdoor Est.),3.2,"Blackberry
+3.2",Waterloo,"Waterloo, Canada",1001 to 5000 employees,1984,Company - Public,Enterprise Software & Network Solutions,Information Technology,$10+ billion (CAD),-1,0,0,57,79,68.0,"Blackberry
+",Waterloo,0,36,1,0,0,0,0
+Data Scientist/ Developer,CA$57K-CA$79K (Glassdoor Est.),5.0,"NDAX INC
+5.0",Calgary,"Calgary, Canada",1 to 50 employees,2017,Company - Public,Stock Exchanges,Finance,Unknown / Non-Applicable,-1,0,0,57,79,68.0,"NDAX INC
+",Calgary,0,3,1,0,0,0,0
+Data Scientist,CA$57K-CA$79K (Glassdoor Est.),5.0,"High Tech Genesis
+5.0",Ottawa,"Ottawa, Canada",51 to 200 employees,2008,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1,0,0,57,79,68.0,"High Tech Genesis
+",Ottawa,0,12,1,0,1,0,0
+Data scientist figth money laundering,CA$57K-CA$79K (Glassdoor Est.),4.1,"Banque Nationale du Canada
+4.1",Montreal,"Montreal, Canada",10000+ employees,1859,Company - Public,Banks & Building Societies,Finance,$10+ billion (CAD),-1,0,0,57,79,68.0,"Banque Nationale du Canada
+",Montreal,0,161,0,0,0,0,0
+Data Scientist,CA$57K-CA$79K (Glassdoor Est.),3.1,"autoTrader.ca
+3.1",Toronto,"Etobicoke, Canada",501 to 1000 employees,2006,Company - Private,Advertising & Marketing,Business Services,$100 to $500 million (CAD),"CarGurus, Kijiji, Flipp",0,0,57,79,68.0,"autoTrader.ca
+",Toronto,0,14,1,0,0,0,1
+Data Scientist/Time Series,CA$57K-CA$79K (Glassdoor Est.),3.8,"Scarsin
+3.8",Markham,"Uxbridge, Canada",51 to 200 employees,2002,Company - Private,Computer Hardware & Software,Information Technology,$10 to $25 million (CAD),-1,0,0,57,79,68.0,"Scarsin
 ",Markham,0,18,0,0,0,0,1
-Data Scientist.,CA$68K-CA$85K (Glassdoor Est.),5.0,"Brain Finance
-5.0",Montreal,"Montreal, Canada",51 to 200 employees,-1,Private Practice / Firm,-1,-1,Unknown / Non-Applicable,-1,0,0,68,85,76.5,"Brain Finance
-",Montreal,0,-1,1,0,1,0,0
-Contract Maintenance Data Analyst,CA$68K-CA$85K (Glassdoor Est.),3.0,"Cenovus
-3.0",Calgary,"Calgary, Canada",1001 to 5000 employees,2009,Company - Public,Oil & Gas Exploration & Production,"Oil, Gas, Energy & Utilities",$10+ billion (CAD),-1,0,0,68,85,76.5,"Cenovus
-",Calgary,0,11,0,0,0,0,0
-Data Scientist,CA$68K-CA$85K (Glassdoor Est.),3.5,"Ingrooves
-3.5",Victoria,"Los Angeles, CA",51 to 200 employees,2002,Company - Private,Music Production & Distribution,Media,$100 to $500 million (CAD),-1,0,0,68,85,76.5,"Ingrooves
+Data Scientist,CA$57K-CA$79K (Glassdoor Est.),4.4,"MobSquad
+4.4",Calgary,"Calgary, Canada",1 to 50 employees,-1,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,-1,0,0,57,79,68.0,"MobSquad
+",Calgary,0,-1,1,0,1,0,1
+Data Scientist,CA$57K-CA$79K (Glassdoor Est.),4.3,"J.D. Irving
+4.3",Dieppe,"Saint John, Canada",10000+ employees,1882,Company - Private,Industrial Manufacturing,Manufacturing,Unknown / Non-Applicable,-1,0,0,57,79,68.0,"J.D. Irving
+",Dieppe,0,138,1,0,0,0,0
+Data Scientist,CA$57K-CA$79K (Glassdoor Est.),4.7,"TEEMA
+4.7",North York,"Litchfield Park, AZ",201 to 500 employees,2008,Company - Private,Staffing & Outsourcing,Business Services,$100 to $500 million (CAD),-1,0,0,57,79,68.0,"TEEMA
+",North York,0,12,1,0,0,0,0
+Data Scientist,CA$57K-CA$79K (Glassdoor Est.),3.3,"Purolator
+3.3",Mississauga,"Mississauga, Canada",10000+ employees,-1,Company - Private,Express Delivery Services,Transportation & Logistics,$2 to $5 billion (CAD),-1,0,0,57,79,68.0,"Purolator
+",Mississauga,0,-1,1,0,1,0,1
+"Data Scientist, Credit Risk to Personal banking and SME",CA$57K-CA$79K (Glassdoor Est.),4.1,"National Bank of Canada
+4.1",Montreal,"Montreal, Canada",10000+ employees,1859,Company - Public,Banks & Building Societies,Finance,$10+ billion (CAD),-1,0,0,57,79,68.0,"National Bank of Canada
+",Montreal,0,161,0,0,0,0,0
+Data Scientist,CA$57K-CA$79K (Glassdoor Est.),3.7,"Citi
+3.7",Mississauga,"New York, NY",10000+ employees,1812,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (CAD),-1,0,0,57,79,68.0,"Citi
+",Mississauga,0,208,1,0,1,0,0
+Data Scientist,CA$57K-CA$79K (Glassdoor Est.),3.5,"Aviva
+3.5",Markham,"London, United Kingdom",10000+ employees,1861,Company - Public,Insurance Operators,Insurance,$10+ billion (CAD),Legal & General,0,0,57,79,68.0,"Aviva
+",Markham,0,159,1,0,1,0,0
+DATA SCIENTIST,CA$57K-CA$79K (Glassdoor Est.),-1.0,Temetrix,Ottawa,-1,-1,-1,-1,-1,-1,-1,-1,0,0,57,79,68.0,Temetrix,Ottawa,0,-1,1,0,1,0,0
+Data Scientist,CA$57K-CA$79K (Glassdoor Est.),3.5,"Ingrooves
+3.5",Victoria,"Los Angeles, CA",51 to 200 employees,2002,Company - Private,Music Production & Distribution,Media,$100 to $500 million (CAD),-1,0,0,57,79,68.0,"Ingrooves
 ",Victoria,0,18,1,0,1,1,1
-ML Engineer/Data Scientist,CA$68K-CA$85K (Glassdoor Est.),4.9,"Nylas
-4.9",Toronto,"San Francisco, CA",51 to 200 employees,2013,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,68,85,76.5,"Nylas
+ML Engineer/Data Scientist,CA$57K-CA$79K (Glassdoor Est.),4.9,"Nylas
+4.9",Toronto,"San Francisco, CA",51 to 200 employees,2013,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,57,79,68.0,"Nylas
 ",Toronto,0,7,1,0,1,0,0
-Data Scientist,CA$62K-CA$94K (Glassdoor Est.),3.6,"Fuze HR Solutions
-3.6",Woodbridge,"Montreal, Canada",51 to 200 employees,2006,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable,"Robert Half, Randstad, Adecco",0,0,62,94,78.0,"Fuze HR Solutions
-",Woodbridge,0,14,1,0,0,0,0
-Data Scientist - Programmer,CA$62K-CA$94K (Glassdoor Est.),3.6,"IQVIA
-3.6",Montreal,"Durham, NC",10000+ employees,2017,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (CAD),"PPD, INC Research, PRA Health Sciences",0,0,62,94,78.0,"IQVIA
+Data Scientist,CA$57K-CA$79K (Glassdoor Est.),2.6,"Canadian Security Intelligence Service
+2.6",Ottawa,"Ottawa, Canada",1 to 50 employees,1984,Government,Government Agencies,Government,Less than $1 million (CAD),-1,0,0,57,79,68.0,"Canadian Security Intelligence Service
+",Ottawa,0,36,1,0,0,0,0
+Senior NLP Engineer/Data Scientist,CA$57K-CA$79K (Glassdoor Est.),4.9,"Nylas
+4.9",Toronto,"San Francisco, CA",51 to 200 employees,2013,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,57,79,68.0,"Nylas
+",Toronto,0,7,1,0,1,0,0
+Data Scientist 4,CA$57K-CA$79K (Glassdoor Est.),3.6,"Oracle
+3.6",Canada,"Redwood City, CA",10000+ employees,1977,Company - Public,Enterprise Software & Network Solutions,Information Technology,$10+ billion (CAD),"SAP, Salesforce, Microsoft",0,0,57,79,68.0,"Oracle
+",Canada,0,43,0,0,0,0,0
+Data Analyst,CA$57K-CA$79K (Glassdoor Est.),5.0,"Data Sciences Inc.
+5.0",Montreal,"Vienna, VA",1 to 50 employees,2013,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,-1,0,0,57,79,68.0,"Data Sciences Inc.
+",Montreal,0,7,1,0,0,1,1
+Data Scientist,CA$57K-CA$79K (Glassdoor Est.),3.4,"Sobeys
+3.4",Toronto,"Stellarton, Canada",10000+ employees,1907,Subsidiary or Business Segment,Grocery Shops & Supermarkets,Retail,$10+ billion (CAD),"Metro, Loblaw Companies",0,0,57,79,68.0,"Sobeys
+",Toronto,0,113,1,0,0,0,0
+Data Scientist - Programmer,CA$57K-CA$79K (Glassdoor Est.),3.6,"IQVIA
+3.6",Montreal,"Durham, NC",10000+ employees,2017,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (CAD),"PPD, INC Research, PRA Health Sciences",0,0,57,79,68.0,"IQVIA
 ",Montreal,0,3,1,0,1,0,0
-Data Scientist / Engineer,CA$62K-CA$94K (Glassdoor Est.),4.0,"LotusFlare, Inc.
-4.0",Waterloo,"Santa Clara, CA",51 to 200 employees,2014,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,62,94,78.0,"LotusFlare, Inc.
-",Waterloo,0,6,1,0,0,0,0
-Data Engineer/Backend Developer,CA$62K-CA$94K (Glassdoor Est.),-1.0,Label Engine,Vancouver,"Los Angeles, CA",51 to 200 employees,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1,0,0,62,94,78.0,Label Engine,Vancouver,0,-1,1,0,0,1,1
-Data Scientist,CA$62K-CA$94K (Glassdoor Est.),4.3,"NorthOne
-4.3",Toronto,"New York, NY",1 to 50 employees,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1,0,0,62,94,78.0,"NorthOne
-",Toronto,0,-1,1,0,0,0,1
-Senior Data Scientist,CA$62K-CA$94K (Glassdoor Est.),4.0,"RBC
-4.0",Toronto,"Toronto, Canada",10000+ employees,1869,Company - Public,Banks & Building Societies,Finance,$10+ billion (CAD),"Barclays, Morgan Stanley, TD",0,0,62,94,78.0,"RBC
-",Toronto,0,151,1,0,1,0,0
-Data Scientist/Data Analytics – Class of ‘20,CA$62K-CA$94K (Glassdoor Est.),-1.0,CitiIQ,Uxbridge,-1,-1,-1,-1,-1,-1,-1,-1,0,0,62,94,78.0,CitiIQ,Uxbridge,0,-1,0,0,0,1,1
-Applied research scientist - machine Learning,CA$62K-CA$94K (Glassdoor Est.),4.7,"Mila
-4.7",Montreal,"Montreal, Canada",51 to 200 employees,-1,College / University,-1,-1,Unknown / Non-Applicable,-1,0,0,62,94,78.0,"Mila
-",Montreal,0,-1,0,0,0,0,1
-DATA SCIENTIST,CA$62K-CA$94K (Glassdoor Est.),-1.0,Temetrix,Ottawa,-1,-1,-1,-1,-1,-1,-1,-1,0,0,62,94,78.0,Temetrix,Ottawa,0,-1,1,0,1,0,0
-Data Analyst,CA$62K-CA$94K (Glassdoor Est.),3.3,"Fujitsu
-3.3",Ottawa,"MINATO-KU, Japan",10000+ employees,1935,Company - Public,-1,-1,$10+ billion (CAD),"Atos, Hewlett Packard Enterprise | HPE, IBM",0,0,62,94,78.0,"Fujitsu
+Data Scientist,CA$57K-CA$79K (Glassdoor Est.),3.6,"Fuze HR Solutions
+3.6",Woodbridge,"Montreal, Canada",51 to 200 employees,2006,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable,"Robert Half, Randstad, Adecco",0,0,57,79,68.0,"Fuze HR Solutions
+",Woodbridge,0,14,1,0,0,0,0
+Scientifique des données/ Data Scientist,CA$57K-CA$79K (Glassdoor Est.),3.9,"CAE Inc.
+3.9",Saint-Laurent,"Montreal, Canada",10000+ employees,1947,Company - Public,Aerospace & Defence,Aerospace & Defence,$2 to $5 billion (CAD),"Pratt & Whitney, Lockheed Martin",0,0,57,79,68.0,"CAE Inc.
+",Saint-Laurent,0,73,1,0,1,0,1
+Data Analyst,CA$57K-CA$79K (Glassdoor Est.),3.3,"Fujitsu
+3.3",Ottawa,"MINATO-KU, Japan",10000+ employees,1935,Company - Public,-1,-1,$10+ billion (CAD),"Atos, Hewlett Packard Enterprise | HPE, IBM",0,0,57,79,68.0,"Fujitsu
 ",Ottawa,0,85,0,0,0,0,0
+"Data Scientist (R&D, Batteries)",CA$57K-CA$79K (Glassdoor Est.),4.4,"GBatteries
+4.4",Ottawa,"Ottawa, Canada",1 to 50 employees,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1,0,0,57,79,68.0,"GBatteries
+",Ottawa,0,-1,1,0,1,0,0
+Data Scientist,CA$57K-CA$79K (Glassdoor Est.),-1.0,Knowtions Research,Toronto,"Toronto, Canada",Unknown,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1,0,0,57,79,68.0,Knowtions Research,Toronto,0,-1,1,0,1,0,0
+Data Scientist,CA$57K-CA$79K (Glassdoor Est.),4.1,"NorthOne
+4.1",Toronto,"New York, NY",1 to 50 employees,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1,0,0,57,79,68.0,"NorthOne
+",Toronto,0,-1,1,0,0,0,1
+Tenure Track Data Scientist/Biostatistician,CA$57K-CA$79K (Glassdoor Est.),4.3,"Queen's University
+4.3",Kingston,"Kingston, Canada",5001 to 10000 employees,1841,College / University,Colleges & Universities,Education,$1 to $2 billion (CAD),"University of Western Ontario, University of Toronto, McGill University",0,0,57,79,68.0,"Queen's University
+",Kingston,0,179,0,0,0,1,1
+Data Scientist / Engineer,CA$62K-CA$94K (Glassdoor Est.),4.2,"LotusFlare, Inc.
+4.2",Waterloo,"Santa Clara, CA",51 to 200 employees,2014,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,62,94,78.0,"LotusFlare, Inc.
+",Waterloo,0,6,1,0,0,0,0
+Data Analyst (Contract),CA$62K-CA$94K (Glassdoor Est.),3.6,"Tundra
+3.6",Edmonton,"Toronto, Canada",201 to 500 employees,2004,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable,-1,0,0,62,94,78.0,"Tundra
+",Edmonton,0,16,0,0,0,0,1
+Product Data Analyst,CA$62K-CA$94K (Glassdoor Est.),4.7,"Thinkific
+4.7",Vancouver,"Vancouver, Canada",51 to 200 employees,2012,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,-1,0,0,62,94,78.0,"Thinkific
+",Vancouver,0,8,1,0,0,0,1
+Data Scientist,CA$62K-CA$94K (Glassdoor Est.),3.5,"Veeva Systems
+3.5",Toronto,"Pleasanton, CA",1001 to 5000 employees,2007,Company - Public,Enterprise Software & Network Solutions,Information Technology,$1 to $2 billion (CAD),-1,0,0,62,94,78.0,"Veeva Systems
+",Toronto,0,13,1,0,0,1,1
+Backend Engineer Data Team - 100% Remote - Canada,CA$62K-CA$94K (Glassdoor Est.),4.7,"Sonatype
+4.7",Remote,"Fulton, MD",201 to 500 employees,2008,Company - Private,Computer Hardware & Software,Information Technology,$100 to $500 million (CAD),-1,0,0,62,94,78.0,"Sonatype
+",Remote,0,12,0,0,1,1,0
 Data Scientist,CA$62K-CA$94K (Glassdoor Est.),3.1,"Joe Fresh
 3.1",Brampton,"Toronto, Canada",201 to 500 employees,2006,Subsidiary or Business Segment,"Department, Clothing, & Shoe Shops",Retail,Unknown / Non-Applicable,-1,0,0,62,94,78.0,"Joe Fresh
 ",Brampton,0,14,1,0,1,1,0
+Data Scientist (Contract),CA$62K-CA$94K (Glassdoor Est.),3.6,"Tundra
+3.6",Toronto,"Toronto, Canada",201 to 500 employees,2004,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable,-1,0,0,62,94,78.0,"Tundra
+",Toronto,0,16,1,0,1,0,0
 Data Scientist,CA$62K-CA$94K (Glassdoor Est.),3.6,"Clearbanc
 3.6",Toronto,"Toronto, Canada",51 to 200 employees,2015,Company - Private,Banks & Building Societies,Finance,Unknown / Non-Applicable,-1,0,0,62,94,78.0,"Clearbanc
 ",Toronto,0,5,1,0,0,0,0
-Data Scientist - 14428,CA$62K-CA$94K (Glassdoor Est.),3.3,"IT IQ TECH RECRUITERS LTD
-3.3",Vancouver,"Vancouver, Canada",1 to 50 employees,2002,Company - Private,Staffing & Outsourcing,Business Services,$50 to $100 million (CAD),"Randstad, TEKsystems, TEEMA Solutions Group",0,0,62,94,78.0,"IT IQ TECH RECRUITERS LTD
-",Vancouver,0,18,1,0,0,0,1
-Data Engineer Trainee,CA$62K-CA$94K (Glassdoor Est.),4.5,"Jarvis Consulting Group
-4.5",Toronto,"Toronto, Canada",1 to 50 employees,-1,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1,0,0,62,94,78.0,"Jarvis Consulting Group
+Machine Learning Scientist,CA$62K-CA$94K (Glassdoor Est.),3.9,"National Research Council Canada
+3.9",St. John's,"Ottawa, Canada",1001 to 5000 employees,-1,Government,Government Agencies,Government,$100 to $500 million (CAD),-1,0,0,62,94,78.0,"National Research Council Canada
+",St. John's,0,-1,1,0,0,0,1
+Data Scientist/Data Analytics – Class of ‘20,CA$62K-CA$94K (Glassdoor Est.),-1.0,CitiIQ,Uxbridge,-1,-1,-1,-1,-1,-1,-1,-1,0,0,62,94,78.0,CitiIQ,Uxbridge,0,-1,0,0,0,1,1
+Senior Data Scientist,CA$62K-CA$94K (Glassdoor Est.),3.6,"Hopper
+3.6",Montreal,"Montreal, Canada",501 to 1000 employees,2007,Company - Private,Travel Agencies,Travel & Tourism,Unknown / Non-Applicable,-1,0,0,62,94,78.0,"Hopper
+",Montreal,0,13,0,0,0,0,0
+Data Engineer Trainee,CA$62K-CA$94K (Glassdoor Est.),4.2,"Jarvis Consulting Group
+4.2",Toronto,"Toronto, Canada",1 to 50 employees,-1,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1,0,0,62,94,78.0,"Jarvis Consulting Group
 ",Toronto,0,-1,1,0,1,0,0
-Data Scientist II,CA$62K-CA$94K (Glassdoor Est.),3.1,"Integrated Resources, Inc
-3.1",Mississauga,"Edison, NJ",201 to 500 employees,1996,Company - Private,Staffing & Outsourcing,Business Services,$50 to $100 million (CAD),-1,0,0,62,94,78.0,"Integrated Resources, Inc
-",Mississauga,0,24,0,0,0,1,1
-Data Engineer or Scientist,CA$62K-CA$94K (Glassdoor Est.),3.3,"Bombardier
-3.3",Montreal,"Montreal, Canada",10000+ employees,1942,Company - Private,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (CAD),-1,0,0,62,94,78.0,"Bombardier
-",Montreal,0,78,1,0,0,1,0
-Data Scientist,CA$62K-CA$94K (Glassdoor Est.),3.5,"Loblaw
-3.5",Brampton,"Brampton, Canada",10000+ employees,-1,Company - Public,Vehicle Dealers,Retail,$10+ billion (CAD),-1,0,0,62,94,78.0,"Loblaw
-",Brampton,0,-1,1,0,1,1,0
+Applied research scientist - machine Learning,CA$62K-CA$94K (Glassdoor Est.),4.5,"Mila
+4.5",Montreal,"Montreal, Canada",51 to 200 employees,-1,College / University,-1,-1,Unknown / Non-Applicable,-1,0,0,62,94,78.0,"Mila
+",Montreal,0,-1,0,0,0,0,1
 Data scientist / Scientifique de données,CA$62K-CA$94K (Glassdoor Est.),4.9,"Unity Technologies
 4.9",Montreal,"San Francisco, CA",1001 to 5000 employees,2005,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,"Epic Games, Electronic Arts, Zynga",0,0,62,94,78.0,"Unity Technologies
 ",Montreal,0,15,0,0,0,0,0
-Data Scientist & Data Engineer,CA$62K-CA$94K (Glassdoor Est.),-1.0,Decipher Biosciences,Vancouver,-1,-1,-1,-1,-1,-1,-1,-1,0,0,62,94,78.0,Decipher Biosciences,Vancouver,0,-1,1,0,0,0,0
+Data Scientist,CA$62K-CA$94K (Glassdoor Est.),3.5,"Loblaw
+3.5",Brampton,"Brampton, Canada",10000+ employees,-1,Company - Public,Vehicle Dealers,Retail,$10+ billion (CAD),-1,0,0,62,94,78.0,"Loblaw
+",Brampton,0,-1,1,0,1,1,0
+Senior Data Scientist,CA$62K-CA$94K (Glassdoor Est.),4.0,"RBC
+4.0",Toronto,"Toronto, Canada",10000+ employees,1869,Company - Public,Banks & Building Societies,Finance,$10+ billion (CAD),"Barclays, Morgan Stanley, TD",0,0,62,94,78.0,"RBC
+",Toronto,0,151,1,0,1,0,0
+Analytics Consultant,CA$62K-CA$94K (Glassdoor Est.),4.6,"Carpedia International
+4.6",Oakville,"Oakville, Canada",51 to 200 employees,1994,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,"McKinsey & Company, Celerant Consulting, PVA Consulting Group",0,0,62,94,78.0,"Carpedia International
+",Oakville,0,26,0,0,0,0,1
 Data Scientist II,CA$62K-CA$94K (Glassdoor Est.),3.9,"TD Bank
 3.9",Toronto,"Toronto, Canada",10000+ employees,1855,Company - Public,Banks & Building Societies,Finance,$10+ billion (CAD),"Chase, BB&T, SunTrust",0,0,62,94,78.0,"TD Bank
 ",Toronto,0,165,0,0,0,0,0
-Data Analyst Intern,CA$62K-CA$94K (Glassdoor Est.),4.1,"SnapTravel
-4.1",Toronto,"Toronto, Canada",1 to 50 employees,2016,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,-1,0,0,62,94,78.0,"SnapTravel
-",Toronto,0,4,1,0,0,0,1
-Intermediate/Senior Data Scientist,CA$62K-CA$94K (Glassdoor Est.),5.0,"auticon
-5.0",Toronto,"Berlin, Germany",201 to 500 employees,2011,Unknown,-1,-1,Less than $1 million (CAD),-1,0,0,62,94,78.0,"auticon
-",Toronto,0,9,1,0,0,0,0
-Scientifique des données/ Data Scientist,CA$62K-CA$94K (Glassdoor Est.),4.0,"CAE Inc.
-4.0",Saint-Laurent,"Montreal, Canada",10000+ employees,1947,Company - Public,Aerospace & Defence,Aerospace & Defence,$2 to $5 billion (CAD),"Pratt & Whitney, Lockheed Martin",0,0,62,94,78.0,"CAE Inc.
-",Saint-Laurent,0,73,1,0,1,0,1
-Tenure Track Data Scientist/Biostatistician,CA$62K-CA$94K (Glassdoor Est.),4.3,"Queen's University
-4.3",Kingston,"Kingston, Canada",5001 to 10000 employees,1841,College / University,Colleges & Universities,Education,$1 to $2 billion (CAD),"University of Western Ontario, University of Toronto, McGill University",0,0,62,94,78.0,"Queen's University
-",Kingston,0,179,0,0,0,1,1
-Senior Data Scientist,CA$62K-CA$94K (Glassdoor Est.),4.6,"SurveyMonkey
-4.6",Ottawa,"San Mateo, CA",1001 to 5000 employees,1999,Company - Public,Internet,Information Technology,$100 to $500 million (CAD),-1,0,0,62,94,78.0,"SurveyMonkey
-",Ottawa,0,21,1,0,0,1,1
+Data Scientist 2,CA$62K-CA$94K (Glassdoor Est.),3.7,"emergiTEL Inc.
+3.7",Toronto,"Richmond Hill, Canada",201 to 500 employees,2006,Company - Private,Staffing & Outsourcing,Business Services,$10 to $25 million (CAD),"Veritaaq, TEKsystems, Procom",0,0,62,94,78.0,"emergiTEL Inc.
+",Toronto,0,14,1,0,1,0,0
 Data Analyst,CA$62K-CA$94K (Glassdoor Est.),4.3,"Drop
 4.3",Toronto,"Toronto, Canada",51 to 200 employees,2015,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,-1,0,0,62,94,78.0,"Drop
 ",Toronto,0,5,1,0,0,1,0
-Data Scientist II,CA$62K-CA$94K (Glassdoor Est.),3.9,"Amazon
-3.9",Vancouver,"Seattle, WA",10000+ employees,1994,Company - Public,Internet,Information Technology,$10+ billion (CAD),"Google, Microsoft, Walmart",0,0,62,94,78.0,"Amazon
-",Vancouver,0,26,1,0,0,0,0
-Data Scientist,CA$62K-CA$94K (Glassdoor Est.),-1.0,Awakedata,Canada,"Burnaby, Canada",Unknown,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1,0,0,62,94,78.0,Awakedata,Canada,0,-1,1,0,1,0,1
-Data Analyst (Contract),CA$62K-CA$94K (Glassdoor Est.),3.8,"Capgemini
-3.8",Brampton,"Paris, France",10000+ employees,1967,Company - Public,Enterprise Software & Network Solutions,Information Technology,$10+ billion (CAD),"Accenture, CGI, Sopra Steria",0,0,62,94,78.0,"Capgemini
-",Brampton,0,53,0,0,0,0,1
-Applied Scientist,CA$62K-CA$94K (Glassdoor Est.),3.8,"Dialpad
-3.8",Vancouver,"San Francisco, CA",201 to 500 employees,2011,Company - Private,Telecommunications Services,Telecommunications,Unknown / Non-Applicable,"RingCentral, 8x8",0,0,62,94,78.0,"Dialpad
-",Vancouver,0,9,1,0,0,0,0
-Data Scientist 2,CA$74K-CA$103K (Glassdoor Est.),3.7,"emergiTEL Inc.
-3.7",Toronto,"Richmond Hill, Canada",201 to 500 employees,2006,Company - Private,Staffing & Outsourcing,Business Services,$10 to $25 million (CAD),"Veritaaq, TEKsystems, Procom",0,0,74,103,88.5,"emergiTEL Inc.
-",Toronto,0,14,1,0,1,0,0
-Data Analyst,CA$74K-CA$103K (Glassdoor Est.),3.3,"OMERS
-3.3",Toronto,"Toronto, Canada",1001 to 5000 employees,1962,Company - Private,Venture Capital & Private Equity,Finance,Unknown / Non-Applicable,-1,0,0,74,103,88.5,"OMERS
-",Toronto,0,58,0,0,0,0,0
-Data Analyst,CA$74K-CA$103K (Glassdoor Est.),4.4,"University of Alberta
-4.4",Edmonton,"Edmonton, Canada",10000+ employees,-1,College / University,Colleges & Universities,Education,$2 to $5 billion (CAD),-1,0,0,74,103,88.5,"University of Alberta
+Senior Data Scientist,CA$62K-CA$94K (Glassdoor Est.),4.6,"SurveyMonkey
+4.6",Ottawa,"San Mateo, CA",1001 to 5000 employees,1999,Company - Public,Internet,Information Technology,$100 to $500 million (CAD),-1,0,0,62,94,78.0,"SurveyMonkey
+",Ottawa,0,21,1,0,0,1,1
+Data Scientist - 14444,CA$62K-CA$94K (Glassdoor Est.),2.8,"IT IQ TECH RECRUITERS LTD
+2.8",Vancouver,"Vancouver, Canada",1 to 50 employees,2002,Company - Private,Staffing & Outsourcing,Business Services,$50 to $100 million (CAD),"Randstad, TEKsystems, TEEMA Solutions Group",0,0,62,94,78.0,"IT IQ TECH RECRUITERS LTD
+",Vancouver,0,18,1,0,0,0,1
+Data Analyst,CA$62K-CA$94K (Glassdoor Est.),4.4,"University of Alberta
+4.4",Edmonton,"Edmonton, Canada",10000+ employees,-1,College / University,Colleges & Universities,Education,$2 to $5 billion (CAD),-1,0,0,62,94,78.0,"University of Alberta
 ",Edmonton,0,-1,0,0,0,0,1
-Data Analyst,CA$74K-CA$103K (Glassdoor Est.),4.0,"Providence Health Care
-4.0",Vancouver,"Vancouver, Canada",5001 to 10000 employees,1894,Hospital,Healthcare Services & Hospitals,Healthcare,$1 to $2 billion (CAD),"Fraser Health, Vancouver Coastal Health, Alberta Health Services",0,0,74,103,88.5,"Providence Health Care
-",Vancouver,0,126,0,0,0,0,1
-Intermediate Data Scientist,CA$74K-CA$103K (Glassdoor Est.),5.0,"auticon
-5.0",Montreal,"Berlin, Germany",201 to 500 employees,2011,Unknown,-1,-1,Less than $1 million (CAD),-1,0,0,74,103,88.5,"auticon
+Data Scientist & Data Engineer,CA$62K-CA$94K (Glassdoor Est.),-1.0,Decipher Biosciences,Vancouver,-1,-1,-1,-1,-1,-1,-1,-1,0,0,62,94,78.0,Decipher Biosciences,Vancouver,0,-1,1,0,0,0,0
+Applied Scientist,CA$62K-CA$94K (Glassdoor Est.),3.7,"Dialpad
+3.7",Vancouver,"San Francisco, CA",201 to 500 employees,2011,Company - Private,Telecommunications Services,Telecommunications,Unknown / Non-Applicable,"RingCentral, 8x8",0,0,62,94,78.0,"Dialpad
+",Vancouver,0,9,1,0,0,0,0
+Environmental Data Scientist,CA$62K-CA$94K (Glassdoor Est.),3.3,"SNC-Lavalin
+3.3",Ottawa,"Montreal, Canada",10000+ employees,1911,Company - Public,Building & Construction,"Building, Repair & Maintenance",$10+ billion (CAD),"Bechtel, Fluor, Amec Foster Wheeler",0,0,62,94,78.0,"SNC-Lavalin
+",Ottawa,0,109,0,0,0,0,1
+Data Engineer or Scientist,CA$62K-CA$94K (Glassdoor Est.),3.3,"Bombardier
+3.3",Montreal,"Montreal, Canada",10000+ employees,1942,Company - Private,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (CAD),-1,0,0,62,94,78.0,"Bombardier
+",Montreal,0,78,1,0,0,1,0
+Intermediate Data Scientist,CA$62K-CA$94K (Glassdoor Est.),5.0,"auticon
+5.0",Montreal,"Berlin, Germany",201 to 500 employees,2011,Unknown,-1,-1,Less than $1 million (CAD),-1,0,0,62,94,78.0,"auticon
 ",Montreal,0,9,1,0,0,0,0
-Machine Learning Engineer,CA$74K-CA$103K (Glassdoor Est.),3.5,"Assurance Careers
-3.5",Toronto,"Bellevue, WA",51 to 200 employees,2016,Company - Private,Insurance Agencies & Brokerages,Insurance,Unknown / Non-Applicable,-1,0,0,74,103,88.5,"Assurance Careers
-",Toronto,0,4,1,0,1,1,1
-Senior Data Scientist,CA$74K-CA$103K (Glassdoor Est.),3.5,"Hopper
-3.5",Montreal,"Montreal, Canada",501 to 1000 employees,2007,Company - Private,Travel Agencies,Travel & Tourism,Unknown / Non-Applicable,-1,0,0,74,103,88.5,"Hopper
-",Montreal,0,13,0,0,0,0,0
-Data Science Analyst,CA$74K-CA$103K (Glassdoor Est.),3.6,"Canadian Tire Corporation
-3.6",Ontario,"Toronto, Canada",5001 to 10000 employees,1922,Company - Public,"Department, Clothing, & Shoe Shops",Retail,$10+ billion (CAD),"Home Depot Canada, Lowe's",0,0,74,103,88.5,"Canadian Tire Corporation
-",Ontario,0,98,1,0,1,0,0
-"Data Scientist, Liquidity and Funding Management",CA$74K-CA$103K (Glassdoor Est.),3.7,"BMO Financial Group
-3.7",Toronto,"Toronto, Canada",10000+ employees,1817,Company - Public,Banks & Building Societies,Finance,$10+ billion (CAD),"CIBC, RBC, TD",0,0,74,103,88.5,"BMO Financial Group
-",Toronto,0,203,1,0,1,1,0
-Senior Data Scientist,CA$74K-CA$103K (Glassdoor Est.),4.3,"Vendasta Technologies
-4.3",Saskatoon,"Saskatoon, Canada",201 to 500 employees,2008,Company - Private,Enterprise Software & Network Solutions,Information Technology,$50 to $100 million (CAD),-1,0,0,74,103,88.5,"Vendasta Technologies
-",Saskatoon,0,12,0,0,0,0,0
+Data Analyst,CA$62K-CA$94K (Glassdoor Est.),3.6,"Syniti
+3.6",Moncton,"Hyannis, MA",501 to 1000 employees,1996,Company - Private,IT Services,Information Technology,$100 to $500 million (CAD),"Collabera, Commvault, LTI",0,0,62,94,78.0,"Syniti
+",Moncton,0,24,0,0,0,0,1
+Data Scientist,CA$62K-CA$94K (Glassdoor Est.),-1.0,Awakedata,Canada,"Burnaby, Canada",Unknown,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1,0,0,62,94,78.0,Awakedata,Canada,0,-1,1,0,1,0,1
+R&D Engineer/Scientist/Physicist,CA$116K-CA$162K (Glassdoor Est.),3.7,"Honeywell
+3.7",North Vancouver,"Charlotte, NC",10000+ employees,1885,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (CAD),"GE, Johnson Controls, United Technologies",0,0,116,162,139.0,"Honeywell
+",North Vancouver,0,135,0,0,0,0,0
+Data Science Intern,CA$116K-CA$162K (Glassdoor Est.),-1.0,LeapGrad,Toronto,-1,-1,-1,-1,-1,-1,-1,-1,0,0,116,162,139.0,LeapGrad,Toronto,0,-1,1,0,1,0,0
+Scientifique de Données / Data Scientist,CA$116K-CA$162K (Glassdoor Est.),3.2,"Square Enix Co.
+3.2",Montreal,"Tokyo, Japan",1001 to 5000 employees,1975,Company - Public,Video Games,Media,Unknown / Non-Applicable,"Electronic Arts, Activision, Infogrames",0,0,116,162,139.0,"Square Enix Co.
+",Montreal,0,45,1,0,1,0,1
+Machine Learning Engineer/Scientist,CA$116K-CA$162K (Glassdoor Est.),2.5,"Huron Digital Pathology
+2.5",St. Jacobs,"Waterloo, Canada",1 to 50 employees,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1,0,0,116,162,139.0,"Huron Digital Pathology
+",St. Jacobs,0,-1,1,0,0,0,1
+Data Scientist - RACE21,CA$116K-CA$162K (Glassdoor Est.),3.8,"Teck Resources Limited
+3.8",Vancouver,"Vancouver, Canada",5001 to 10000 employees,-1,Company - Public,Mining,Mining & Metals,$10+ billion (CAD),-1,0,0,116,162,139.0,"Teck Resources Limited
+",Vancouver,0,-1,0,0,0,0,1
+Scientist,CA$116K-CA$162K (Glassdoor Est.),4.1,"SickKids
+4.1",Toronto,"Toronto, Canada",5001 to 10000 employees,1875,Company - Public,Healthcare Services & Hospitals,Healthcare,$1 to $2 billion (CAD),-1,0,0,116,162,139.0,"SickKids
+",Toronto,0,145,0,0,0,0,1
+Senior Research Associate/Data Collection Consultant Peri- and Post Approval Studies,CA$116K-CA$162K (Glassdoor Est.),3.8,"Evidera
+3.8",Montreal,"Bethesda, MD",501 to 1000 employees,2013,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (CAD),"IQVIA, ICON",0,0,116,162,139.0,"Evidera
+",Montreal,0,7,0,0,0,0,0
+Data Analyst,CA$116K-CA$162K (Glassdoor Est.),3.2,"NCRI
+3.2",Mississauga,"Mississauga, Canada",1 to 50 employees,-1,Company - Private,Investment Banking & Asset Management,Finance,$1 to $5 million (CAD),-1,0,0,116,162,139.0,"NCRI
+",Mississauga,0,-1,1,0,0,0,1
+Data Analyst,CA$116K-CA$162K (Glassdoor Est.),3.8,"Systematix
+3.8",Edmonton,"Montréal, Canada",501 to 1000 employees,1975,Company - Private,Consulting,Business Services,$25 to $50 million (CAD),-1,0,0,116,162,139.0,"Systematix
+",Edmonton,0,45,0,0,0,0,0
+Data Scientist II,CA$116K-CA$162K (Glassdoor Est.),3.9,"Amazon
+3.9",Vancouver,"Seattle, WA",10000+ employees,1994,Company - Public,Internet,Information Technology,$10+ billion (CAD),"Google, Microsoft, Walmart",0,0,116,162,139.0,"Amazon
+",Vancouver,0,26,1,0,0,0,0
